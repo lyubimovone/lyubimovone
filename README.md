@@ -17,6 +17,6 @@ Alexander Lyubimov, Frontend Developer.
 
 ## 📫 Как со мной связаться
 
-<a href="https://t.me/lyubimovone" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" style="border-radius: 50%; width: 50px; height: 50px;"/>
+<a href="https://t.me/lyubimovone">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" style="border-radius: 50%; width: 50px; height: 50px;"/>
 </a>
