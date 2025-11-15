@@ -5,15 +5,15 @@ Alexander Lyubimov, Frontend Developer.
 ## 🚀 Навыки
 
 ### Frontend
-- React ⚛️
-- TypeScript 📘
-- JavaScript 💛
-- HTML/CSS 🎨
+- React
+- TypeScript
+- JavaScript
+- HTML/CSS
 - SCSS
 
 ### Инструменты
 - Redux Toolkit
-- Vite ⚡
+- Vite
 
 ## 📫 Как со мной связаться
 
