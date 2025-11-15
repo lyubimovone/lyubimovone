@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**lyubimovone/lyubimovone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alexander Lyubimov, Frontend Developer.
 
-Here are some ideas to get you started:
+## 🚀 Навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- React ⚛️
+- TypeScript 📘
+- JavaScript 💛
+- HTML/CSS 🎨
+- SCSS
+
+### Инструменты
+- Redux Toolkit
+- Vite ⚡
+
+## 📫 Как со мной связаться
+
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/lyubimovone)
